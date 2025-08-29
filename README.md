@@ -1,1 +1,1 @@
-# Repo for hugging face courses
+Repo for hugging face courses
